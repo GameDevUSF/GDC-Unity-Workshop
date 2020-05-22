@@ -1,2 +1,3 @@
 # GDC-Unity-Workshop
-GDC Unity Workshop on 10/04/17
+
+Facebook Event: https://www.facebook.com/events/277180552795780/
